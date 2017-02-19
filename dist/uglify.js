@@ -1,0 +1,1 @@
+!function(){function n(n){console.log(n)}n("Anish")}()(function(){function n(n){console.log(n)}n("Anish")})()(function(){function n(n){console.log(n)}n("Anish")})(),function(){function n(n){console.log(n)}n("Anish")}();
